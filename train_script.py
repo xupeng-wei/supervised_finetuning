@@ -3,7 +3,7 @@ from datasets import load_dataset
 from transformers import LlamaTokenizer, LlamaForCausalLM, AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
 
 # Load data
-raw_dataset = load_dataset("json", data_files="reasoning_data.jsonl", split="train")
+raw_dataset = load_dataset("json", data_files="reasoning_100_examples.jsonl", split="train")
 split_dataset = raw_dataset.train_test_split(test_size=0.1)
 train_dataset = split_dataset["train"]
 eval_dataset = split_dataset["test"]

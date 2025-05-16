@@ -1,0 +1,100 @@
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all oranges are fruits and all fruits are plants, are all oranges plants?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all squares are rectangles and all rectangles are shapes, are all squares shapes?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If some students are athletes and all athletes are healthy, can all students be healthy?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If some employees are managers and all managers are leaders, can all employees be leaders?", "answer": "Not necessarily", "explanation": "Some A are B does not imply all A are B."}
+{"instruction": "Q: If Alice is taller than Bob, and Bob is taller than Charlie, who is the tallest?", "answer": "Alice", "explanation": "Alice > Bob > Charlie, so Alice is the tallest."}
+{"instruction": "Q: If X is taller than Y, and Y is taller than Z, who is the tallest?", "answer": "X", "explanation": "X > Y > Z, so X is the tallest."}
+{"instruction": "Q: If Anna is taller than Brian, and Brian is taller than Chris, who is the tallest?", "answer": "Anna", "explanation": "Anna > Brian > Chris, so Anna is the tallest."}
+{"instruction": "Q: If it is raining, then the ground is wet. The ground is wet. Is it raining?", "answer": "Not necessarily", "explanation": "The wet ground could be caused by other factors."}
+{"instruction": "Q: If no birds are fish and all sparrows are birds, can any sparrows be fish?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If no apples are vegetables and all granny smiths are apples, can any granny smiths be vegetables?", "answer": "No", "explanation": "If no A are B and all C are A, then no C can be B."}
+{"instruction": "Q: If John always studies when he has an exam, and John is currently studies, can we conclude he has an exam?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If Anna always runs when it is sunny, and Anna is currently runs, can we conclude it is sunny?", "answer": "Not necessarily", "explanation": "He might do B for reasons other than C."}
+{"instruction": "Q: If all cats are mammals and all mammals are animals, are all cats animals?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}
+{"instruction": "Q: If all birds are creatures and all creatures are living beings, are all birds living beings?", "answer": "Yes", "explanation": "If A ⊆ B and B ⊆ C, then A ⊆ C."}

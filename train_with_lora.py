@@ -67,7 +67,7 @@ training_args = TrainingArguments(
     per_device_train_batch_size=1,
     per_device_eval_batch_size=1,
     gradient_accumulation_steps=8,
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     num_train_epochs=2,
     logging_steps=10,
     save_strategy="epoch",
@@ -87,5 +87,5 @@ trainer = Trainer(
 trainer.train()
 
 # Save
-trainer.save_model("./my_lora_model")
-tokenizer.save_pretrained("./my_lora_model")
+trainer.save_model("./sft-llama")
+tokenizer.save_pretrained("./sft-llama")

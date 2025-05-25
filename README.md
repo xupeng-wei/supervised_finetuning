@@ -24,6 +24,11 @@ Requirements: High computational resources; may encounter out-of-memory (OOM) is
 2. `train_with_lora.py` – LoRA-Based Fine-Tuning
 Description: Implements parameter-efficient fine-tuning using LoRA, which introduces trainable rank decomposition matrices into each layer of the Transformer architecture.
 
+3. `train_reward_model.py` - Reward Model Preparation
+
+4. `rlhf.py` - RLHF
+Description: Load the SFT model, RLHF with the prepared reward model.
+
 Advantages:
 
 - Significantly reduces memory usage.
